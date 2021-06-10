@@ -57,6 +57,5 @@ function linkJump ({ url, callback }) {
   })
 }
 
-module.exports = {
-  linkJump: linkJump
-}
+
+module.exports =linkJump
